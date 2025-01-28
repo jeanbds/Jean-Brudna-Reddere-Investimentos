@@ -1,6 +1,4 @@
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Jean Carlo Brudna - Assessor de Investimentos</title>
     <style>
         body {
@@ -27,7 +25,7 @@
             text-align: center;
             backdrop-filter: blur(5px);
             border: 1px solid rgba(255, 255, 255, 0.3);
-            margin-left: 50px; /* Adiciona um espaço de 50px à esquerda, movendo o cartão para a direita */
+            margin-left: 52px; /* Adiciona um espaço de 50px à esquerda, movendo o cartão para a direita */
 }
                      
 
