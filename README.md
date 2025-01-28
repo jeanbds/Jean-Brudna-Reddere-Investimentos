@@ -25,7 +25,7 @@
             text-align: center;
             backdrop-filter: blur(5px);
             border: 1px solid rgba(255, 255, 255, 0.3);
-            margin-left: 52px; /* Adiciona um espaço de 50px à esquerda, movendo o cartão para a direita */
+            margin-left: 55px; /* Adiciona um espaço de 50px à esquerda, movendo o cartão para a direita */
 }
                      
 
@@ -114,6 +114,7 @@
 </head>
 <body>
     <div class="card">
+           <div class="profile-header">
             <h1>Jean Carlo Brudna dos Santos</h1>
             <h2>Assessor de Investimentos</h2>
         </div>
