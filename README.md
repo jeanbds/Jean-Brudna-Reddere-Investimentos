@@ -114,7 +114,6 @@
 </head>
 <body>
     <div class="card">
-        <div class="profile-header">
             <h1>Jean Carlo Brudna dos Santos</h1>
             <h2>Assessor de Investimentos</h2>
         </div>
