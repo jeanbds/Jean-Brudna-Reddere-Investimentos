@@ -29,13 +29,6 @@
 }          
         }
 
-        h2 {
-            font-size: 18px;
-            color: #4a5568;
-            margin: 0 0 20px;
-            font-weight: 500;
-        }
-
         .contact-info {
             margin: 25px 0;
         }
