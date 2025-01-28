@@ -26,8 +26,7 @@
             backdrop-filter: blur(5px);
             border: 1px solid rgba(255, 255, 255, 0.3);
             margin-left: 55px; /* Adiciona um espaço de 50px à esquerda, movendo o cartão para a direita */
-}
-                     
+}          
         }
 
         h2 {
