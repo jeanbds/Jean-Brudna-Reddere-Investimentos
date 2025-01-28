@@ -1,4 +1,3 @@
-<head>
     <title>Jean Carlo Brudna - Assessor de Investimentos</title>
     <style>
         body {
