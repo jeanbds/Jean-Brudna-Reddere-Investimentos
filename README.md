@@ -28,14 +28,6 @@
             margin-left: 55px; /* Adiciona um espaço de 50px à esquerda, movendo o cartão para a direita */
 }
                      
-
-        }
-
-        h1 {
-            font-size: 26px;
-            color: #1a2b5a;
-            margin: 15px 0 5px;
-            font-weight: 600;
         }
 
         h2 {
