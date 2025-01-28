@@ -22,12 +22,15 @@
             background: rgba(255, 255, 255, 0.95);
             border-radius: 16px;
             box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
-            width: 90%;
+           width: 90%;
             max-width: 400px;
             padding: 30px;
             text-align: center;
             backdrop-filter: blur(5px);
             border: 1px solid rgba(255, 255, 255, 0.3);
+            margin-left: 50px; /* Adiciona um espaço de 50px à esquerda, movendo o cartão para a direita */
+}
+                     
         }
 
         .profile-header {
