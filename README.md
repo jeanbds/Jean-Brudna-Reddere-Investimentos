@@ -31,10 +31,7 @@
             margin-left: 50px; /* Adiciona um espaço de 50px à esquerda, movendo o cartão para a direita */
 }
                      
-        }
 
-        .profile-header {
-            margin-bottom: 25px;
         }
 
         h1 {
